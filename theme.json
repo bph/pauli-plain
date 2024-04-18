@@ -1,0 +1,285 @@
+{
+	"settings": {
+		"appearanceTools": true,
+		"blocks": {
+			"core/image": {
+				"appearanceTools": true,
+				"color": {
+					"background": true,
+					"custom": true,
+					"customDuotone": true,
+					"customGradient": true,
+					"defaultDuotone": true,
+					"defaultGradients": true,
+					"defaultPalette": true,
+					"duotone": [],
+					"gradients": [],
+					"palette": [
+						{
+							"color": "#fefddc",
+							"name": "Color 1",
+							"slug": "custom-color-1"
+						},
+						{
+							"color": "#faf2e1",
+							"name": "beige",
+							"slug": "custom-beige"
+						}
+					],
+					"text": true
+				},
+				"layout": {
+					"contentSize": "620px",
+					"wideSize": "1000px"
+				},
+				"lightbox": {
+					"allowEditing": true,
+					"enabled": true
+				},
+				"shadow": {
+					"defaultPresets": true,
+					"presets": []
+				},
+				"spacing": {
+					"customSpacingSize": true,
+					"spacingScale": {
+						"increment": 1.5,
+						"mediumStep": 1.5,
+						"operator": "*",
+						"steps": 7,
+						"unit": "rem"
+					},
+					"spacingSizes": [],
+					"units": [
+						"%",
+						"px",
+						"em",
+						"rem",
+						"vh",
+						"vw"
+					]
+				},
+				"typography": {
+					"customFontSize": true,
+					"dropCap": true,
+					"fontFamilies": [
+						{
+							"fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif",
+							"name": "System Font",
+							"slug": "system-font"
+						},
+						{
+							"fontFace": [
+								{
+									"fontFamily": "\"Akaya Kanadaka\"",
+									"fontStyle": "normal",
+									"fontWeight": "400",
+									"src": "file:./assets/fonts/N0bM2S5CPO5oOQqvazoRRb-8-PfUS5VBBSSF.woff2"
+								}
+							],
+							"fontFamily": "\"Akaya Kanadaka\", system-ui",
+							"name": "Akaya Kanadaka",
+							"slug": "akaya-kanadaka"
+						},
+						{
+							"fontFace": [
+								{
+									"fontFamily": "Anuphan",
+									"fontStyle": "normal",
+									"fontWeight": "400",
+									"src": "file:./assets/fonts/2sDBZGxYgY7LkLT0s2Yrm5UhuLoIZCkY9Q4hGmW927Gu.woff2"
+								}
+							],
+							"fontFamily": "Anuphan, sans-serif",
+							"name": "Anuphan",
+							"slug": "anuphan"
+						},
+						{
+							"fontFace": [
+								{
+									"fontFamily": "Almendra",
+									"fontStyle": "normal",
+									"fontWeight": "400",
+									"src": "file:./assets/fonts/H4ckBXKAlMnTn0CskyY_wr-wg763.woff2"
+								}
+							],
+							"fontFamily": "Almendra, serif",
+							"name": "Almendra",
+							"slug": "almendra"
+						}
+					],
+					"fontSizes": [],
+					"fontStyle": true,
+					"fontWeight": true,
+					"letterSpacing": true,
+					"textColumns": false,
+					"textDecoration": true,
+					"textTransform": true,
+					"writingMode": false
+				},
+				"useRootPaddingAwareAlignments": true
+			}
+		},
+		"color": {
+			"palette": [
+				{
+					"color": "#fefddc",
+					"name": "Color 1",
+					"slug": "custom-color-1"
+				},
+				{
+					"color": "#faf2e1",
+					"name": "beige",
+					"slug": "custom-beige"
+				},
+				{
+					"color": "#0fadbf",
+					"name": "Teal",
+					"slug": "custom-teal"
+				}
+			]
+		},
+		"layout": {
+			"contentSize": "620px",
+			"wideSize": "1000px"
+		},
+		"spacing": {
+			"units": [
+				"%",
+				"px",
+				"em",
+				"rem",
+				"vh",
+				"vw"
+			]
+		},
+		"typography": {
+			"fontFamilies": [
+				{
+					"fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif",
+					"name": "System Font",
+					"slug": "system-font"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "\"Akaya Kanadaka\"",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": "file:./assets/fonts/N0bM2S5CPO5oOQqvazoRRb-8-PfUS5VBBSSF.woff2"
+						}
+					],
+					"fontFamily": "\"Akaya Kanadaka\", system-ui",
+					"name": "Akaya Kanadaka",
+					"slug": "akaya-kanadaka"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Anuphan",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": "file:./assets/fonts/2sDBZGxYgY7LkLT0s2Yrm5UhuLoIZCkY9Q4hGmW927Gu.woff2"
+						}
+					],
+					"fontFamily": "Anuphan, sans-serif",
+					"name": "Anuphan",
+					"slug": "anuphan"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Almendra",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": "file:./assets/fonts/H4ckBXKAlMnTn0CskyY_wr-wg763.woff2"
+						}
+					],
+					"fontFamily": "Almendra, serif",
+					"name": "Almendra",
+					"slug": "almendra"
+				}
+			]
+		},
+		"useRootPaddingAwareAlignments": true
+	},
+	"styles": {
+		"background": {
+			"backgroundImage": {
+				"id": 195,
+				"source": "file",
+				"title": "3032452",
+				"url": "http://localhost:10115/wp-content/uploads/2024/04/3032452-scaled.jpg"
+			},
+			"backgroundPosition": "28.000000000000004% 59%",
+			"backgroundSize": "auto"
+		},
+		"blocks": {
+			"core/image": {
+				"border": {
+					"bottom": {
+						"color": "var(--wp--preset--color--vivid-cyan-blue)",
+						"style": "solid"
+					},
+					"color": null,
+					"left": {
+						"color": "var(--wp--preset--color--custom-beige)",
+						"style": "solid"
+					},
+					"right": {
+						"color": "var(--wp--preset--color--vivid-cyan-blue)",
+						"style": "solid"
+					},
+					"style": null,
+					"top": {
+						"color": "var(--wp--preset--color--custom-beige)",
+						"style": "solid"
+					},
+					"width": null
+				}
+			},
+			"core/media-text": {
+				"color": {
+					"background": "var(--wp--preset--color--custom-beige)"
+				}
+			},
+			"core/pullquote": {
+				"color": {
+					"background": "var(--wp--preset--color--custom-beige)"
+				},
+				"spacing": {
+					"padding": {
+						"bottom": "var(--wp--preset--spacing--50)",
+						"left": "var(--wp--preset--spacing--40)",
+						"right": "var(--wp--preset--spacing--40)",
+						"top": "var(--wp--preset--spacing--50)"
+					}
+				}
+			}
+		},
+		"elements": {
+			"heading": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--almendra)"
+				}
+			}
+		},
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--anuphan)",
+			"fontSize": "var(--wp--preset--font-size--medium)",
+			"lineHeight": "1.5"
+		}
+	},
+	"templateParts": [
+		{
+			"area": "header",
+			"name": "header"
+		},
+		{
+			"area": "footer",
+			"name": "footer"
+		}
+	],
+	"version": 2,
+	"$schema": "https://schemas.wp.org/trunk/theme.json"
+}
