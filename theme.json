@@ -1,30 +1,20 @@
 {
 	"settings": {
 		"appearanceTools": true,
-	
-		"background": true,
-		"custom": true,
-		"customDuotone": true,
-		"customGradient": true,
-		"defaultDuotone": true,
-		"defaultGradients": true,
-		"defaultPalette": true,
-		"duotone": [],
-		"gradients": [],
 		"color": {
 			"palette": [
 				{
-					"color": "#fefddc",
-					"name": "Sunny",
-					"slug": "custom-sunny"
+					"color": "#fafdd7",
+					"name": "Leichtes Gelb",
+					"slug": "custom-leichtes-gelb"
 				},
 				{
-					"color": "#faf2e1",
-					"name": "beige",
-					"slug": "custom-beige"
+					"color": "#feefd3",
+					"name": "Leichtes Orange",
+					"slug": "custom-leichtes-orange"
 				},
 				{
-					"color": "#0fadbf",
+					"color": "#0c9292",
 					"name": "Teal",
 					"slug": "custom-teal"
 				}
@@ -34,24 +24,7 @@
 			"contentSize": "620px",
 			"wideSize": "1000px"
 		},
-		"lightbox": {
-			"allowEditing": true,
-			"enabled": true
-		},
-		"shadow": {
-			"defaultPresets": true,
-			"presets": []
-		},
 		"spacing": {
-			"customSpacingSize": true,
-			"spacingScale": {
-				"increment": 1.5,
-				"mediumStep": 1.5,
-				"operator": "*",
-				"steps": 7,
-				"unit": "rem"
-			},
-			"spacingSizes": [],
 			"units": [
 				"%",
 				"px",
@@ -62,8 +35,6 @@
 			]
 		},
 		"typography": {
-			"customFontSize": true,
-			"dropCap": true,
 			"fontFamilies": [
 				{
 					"fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif",
@@ -86,19 +57,6 @@
 				{
 					"fontFace": [
 						{
-							"fontFamily": "Anuphan",
-							"fontStyle": "normal",
-							"fontWeight": "400",
-							"src": "file:./assets/fonts/2sDBZGxYgY7LkLT0s2Yrm5UhuLoIZCkY9Q4hGmW927Gu.woff2"
-						}
-					],
-					"fontFamily": "Anuphan, sans-serif",
-					"name": "Anuphan",
-					"slug": "anuphan"
-				},
-				{
-					"fontFace": [
-						{
 							"fontFamily": "Almendra",
 							"fontStyle": "normal",
 							"fontWeight": "400",
@@ -109,82 +67,29 @@
 					"name": "Almendra",
 					"slug": "almendra"
 				}
-			],
-			"fontSizes": [],
-			"fontStyle": true,
-			"fontWeight": true,
-			"letterSpacing": true,
-			"textColumns": false,
-			"textDecoration": true,
-			"textTransform": true,
-			"writingMode": false
+			]
 		},
-	"useRootPaddingAwareAlignments": true,
+		"useRootPaddingAwareAlignments": true
+	},
 	"styles": {
 		"background": {
 			"backgroundImage": {
 				"id": 195,
 				"source": "file",
-				"title": "Spanishe Wand",
-				"url": "../assets/3032452-scaled.jpg"
-			},
-			"backgroundPosition": "28.000000000000004% 59%",
-			"backgroundSize": "auto"
-		},
-		"blocks": {
-			"core/image": {
-				"border": {
-					"bottom": {
-						"color": "var(--wp--preset--color--vivid-cyan-blue)",
-						"style": "solid"
-					},
-					"color": null,
-					"left": {
-						"color": "var(--wp--preset--color--custom-beige)",
-						"style": "solid"
-					},
-					"right": {
-						"color": "var(--wp--preset--color--vivid-cyan-blue)",
-						"style": "solid"
-					},
-					"style": null,
-					"top": {
-						"color": "var(--wp--preset--color--custom-beige)",
-						"style": "solid"
-					},
-					"width": null
-				}
-			},
-			"core/media-text": {
-				"color": {
-					"background": "var(--wp--preset--color--custom-beige)"
-				}
-			},
-			"core/pullquote": {
-				"color": {
-					"background": "var(--wp--preset--color--custom-beige)"
-				},
-				"spacing": {
-					"padding": {
-						"bottom": "var(--wp--preset--spacing--50)",
-						"left": "var(--wp--preset--spacing--40)",
-						"right": "var(--wp--preset--spacing--40)",
-						"top": "var(--wp--preset--spacing--50)"
-					}
-				}
+				"title": "3032452",
+				"url": "http://localhost:10115/wp-content/uploads/2024/04/3032452-scaled.jpg"
 			}
 		},
 		"elements": {
 			"heading": {
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--almendra)"
+					"fontFamily": "var(--wp--preset--font-family--akaya-kanadaka)"
 				}
 			}
 		},
 		"typography": {
-			"fontFamily": "var(--wp--preset--font-family--anuphan)",
-			"fontSize": "var(--wp--preset--font-size--medium)",
-			"lineHeight": "1.5"
+			"fontFamily": "var(--wp--preset--font-family--almendra)",
+			"fontSize": "var(--wp--preset--font-size--medium)"
 		}
 	},
 	"templateParts": [
@@ -199,4 +104,4 @@
 	],
 	"version": 2,
 	"$schema": "https://schemas.wp.org/trunk/theme.json"
-	}}
+}
