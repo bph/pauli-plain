@@ -87,6 +87,14 @@
 				}
 			}
 		},
+		"spacing": {
+			"padding": {
+				"bottom": "50px",
+				"left": "50px",
+				"right": "50px",
+				"top": "50px"
+			}
+		},
 		"typography": {
 			"fontFamily": "var(--wp--preset--font-family--almendra)",
 			"fontSize": "var(--wp--preset--font-size--medium)"
@@ -103,5 +111,5 @@
 		}
 	],
 	"version": 3,
-	"$schema": "https://schemas.wp.org/trunk/theme.json"
+	"$schema": "https://schemas.wp.org/wp/6.7/theme.json"
 }
